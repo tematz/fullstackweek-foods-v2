@@ -1,17 +1,14 @@
-## Restaurant Delivery Project
+**Restaurant Delivery Platform**
 
-**Introduction**
+An online food ordering system connecting customers with local restaurants. Inspired by popular platforms, it offers a seamless experience for both restaurants and users.
 
-An online food delivery service inspired by popular platforms like iFood. It will allow restaurants to create their own menus, set prices and delivery times, and manage orders.
+**Features:**
 
-**Features**
+- **Restaurant Management:** Create profiles, menus, set delivery schedules, and manage orders.
+- **Real-time Order Tracking:** Customers track their food's journey from order to arrival.
 
-* Restaurant profile creation: Restaurants can create a profile with information about their business, including name, address, hours of operation, type of cuisine, and menu photos.
-* Menu management: Restaurants can create and edit their menus, including items, descriptions, prices, and photos.
-* Delivery schedule setting: Restaurants can set their delivery schedules, including weekdays and hours of operation.
-* Order management: Restaurants can view, accept, reject, and complete orders.
-* Order tracking: Customers can track the status of their orders in real time.
+**Tech Stack:**
 
-**Technologies**
-
-* Next.js, Tailwind CSS, and Prisma.
+- Next.js (framework)
+- Tailwind CSS (styling)
+- Prisma (database)
