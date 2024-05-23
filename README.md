@@ -1,4 +1,4 @@
-**Restaurant Delivery Platform**
+**Food Delivery Platform**
 
 An online food ordering system connecting customers with local restaurants. Inspired by popular platforms, it offers a seamless experience for both restaurants and users.
 
