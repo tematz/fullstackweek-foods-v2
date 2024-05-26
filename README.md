@@ -6,9 +6,3 @@ An online food ordering system connecting customers with local restaurants. Insp
 
 - **Restaurant Management:** Create profiles, menus, set delivery schedules, and manage orders.
 - **Real-time Order Tracking:** Customers track their food's journey from order to arrival.
-
-**Tech Stack:**
-
-- Next.js (framework)
-- Tailwind CSS (styling)
-- Prisma (database)
